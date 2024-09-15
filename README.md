@@ -1,7 +1,6 @@
 # hno-app-database-api-request
 The code within the Jupyter notebooks consolidates single or multiple-choice questions and their corresponding answer options from designated Excel columns, dispatching them as prompts to various AI models through an API. Subsequently, it documents the prompts and responses across six predetermined columns and assesses answers from A to D, annotating them with a '1' when recognized.
 We utilized this code to conduct a research study. Below is a slightly modified excerpt from the methods section of our paper, which is presently submitted for peer review:
-# Methods
 # Question Database
 We utilized the question bank from an online education platform (https://hno.keelearning.de/), which provides quiz-based questions in German to help prepare for the German otolaryngology board certification. We omitted any questions that relied on images. The study included a total of 2,576 questions, which were divided into multiple-choice (479 questions) and single-choice (2,097 questions). Official permission was secured from the copyright owner before beginning the study to use the questions for research purposes.	
 # AI models
